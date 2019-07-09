@@ -1,3 +1,23 @@
 body {
-    color:blue;
+    color:black;
+    background:grey;
+}
+h1 {
+    color:White;
+    position:relative;
+    text-align:center;
+}
+.divtable {
+    display:table-cell; 
+    vertical-align:top;
+}
+.divtable-1 {
+    display:table;
+}
+.divtable-2 {
+    display:table-cell;float:right;
+}
+img {
+    max-width: width 10px;
+    height:auto;
 }
