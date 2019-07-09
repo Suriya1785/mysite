@@ -7,6 +7,9 @@ h1 {
     position:relative;
     text-align:center;
 }
+ul {
+   list-style:none; 
+}
 .divtable {
     display:table-cell; 
     vertical-align:top;
@@ -18,6 +21,7 @@ h1 {
     display:table-cell;float:right;
 }
 img {
-    max-width: width 10px;
+    max-width: 100px;
+    display: block;
     height:auto;
 }
